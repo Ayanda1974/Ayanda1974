@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Ayanda Buthelezi 👋
 
-<!--
-**Ayanda1974/Ayanda1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer** | Passionate about building modern web apps and scalable backend systems.
 
-Here are some ideas to get you started:
+🚀 I'm skilled in:
+- 🔹 Angular
+- 🔹 Firebase
+- 🔹 Python
+- 🔹 JavaScript
+- 🔹 Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+
+
+
+🌐 Connect With Me:
+- 🌍 [Portfolio](https://ayandabuthelezi.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayanda-buthelezi/)
+- 📧 Email: ayandabuthelezi1974@gmail.com
+
+
+
+📊 GitHub Stats:
+![Ayanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayanda1974&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanda1974&layout=compact&theme=radical)
+
+
+
+💡 Fun Fact:
+> I'm always learning — from debugging code to building full-stack applications!
+
